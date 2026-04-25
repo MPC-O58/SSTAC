@@ -1,0 +1,428 @@
+{
+  "T634I3E": {
+    "object_code": "T634I3E",
+    "date_local": "2026-04-22",
+    "mode": "HIGH INCLINATION",
+    "sector": "NIGHT",
+    "field_index": 3,
+    "track_no": 14,
+    "discovery_ra": "14:35:22.59",
+    "discovery_dec": "+06:55:56.0",
+    "discovery_date_local": "2026-04-22",
+    "ephemeris": [
+      {
+        "date_utc": "2026-04-25 12:55",
+        "ra": "14:35:06.591",
+        "dec": "+05:47:55.57",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.007,
+        "motion_arcsec_hr": 60.419999999999995
+      },
+      {
+        "date_utc": "2026-04-25 13:00",
+        "ra": "14:35:06.566",
+        "dec": "+05:47:50.54",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.008,
+        "motion_arcsec_hr": 60.480000000000004
+      },
+      {
+        "date_utc": "2026-04-25 13:05",
+        "ra": "14:35:06.541",
+        "dec": "+05:47:45.51",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.008,
+        "motion_arcsec_hr": 60.480000000000004
+      },
+      {
+        "date_utc": "2026-04-25 13:10",
+        "ra": "14:35:06.514",
+        "dec": "+05:47:40.48",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.009,
+        "motion_arcsec_hr": 60.53999999999999
+      },
+      {
+        "date_utc": "2026-04-25 13:15",
+        "ra": "14:35:06.487",
+        "dec": "+05:47:35.45",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.009,
+        "motion_arcsec_hr": 60.53999999999999
+      },
+      {
+        "date_utc": "2026-04-25 13:20",
+        "ra": "14:35:06.458",
+        "dec": "+05:47:30.42",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.01,
+        "motion_arcsec_hr": 60.6
+      },
+      {
+        "date_utc": "2026-04-25 13:25",
+        "ra": "14:35:06.429",
+        "dec": "+05:47:25.38",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.011,
+        "motion_arcsec_hr": 60.66
+      },
+      {
+        "date_utc": "2026-04-25 13:30",
+        "ra": "14:35:06.398",
+        "dec": "+05:47:20.34",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.011,
+        "motion_arcsec_hr": 60.66
+      },
+      {
+        "date_utc": "2026-04-25 13:35",
+        "ra": "14:35:06.367",
+        "dec": "+05:47:15.30",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.012,
+        "motion_arcsec_hr": 60.72
+      },
+      {
+        "date_utc": "2026-04-25 13:40",
+        "ra": "14:35:06.334",
+        "dec": "+05:47:10.26",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.013,
+        "motion_arcsec_hr": 60.779999999999994
+      },
+      {
+        "date_utc": "2026-04-25 13:45",
+        "ra": "14:35:06.301",
+        "dec": "+05:47:05.21",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.013,
+        "motion_arcsec_hr": 60.779999999999994
+      },
+      {
+        "date_utc": "2026-04-25 13:50",
+        "ra": "14:35:06.267",
+        "dec": "+05:47:00.17",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.014,
+        "motion_arcsec_hr": 60.84
+      },
+      {
+        "date_utc": "2026-04-25 13:55",
+        "ra": "14:35:06.232",
+        "dec": "+05:46:55.12",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.014,
+        "motion_arcsec_hr": 60.84
+      },
+      {
+        "date_utc": "2026-04-25 14:00",
+        "ra": "14:35:06.196",
+        "dec": "+05:46:50.07",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.015,
+        "motion_arcsec_hr": 60.89999999999999
+      },
+      {
+        "date_utc": "2026-04-25 14:05",
+        "ra": "14:35:06.159",
+        "dec": "+05:46:45.02",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.016,
+        "motion_arcsec_hr": 60.96
+      },
+      {
+        "date_utc": "2026-04-25 14:10",
+        "ra": "14:35:06.121",
+        "dec": "+05:46:39.97",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.017,
+        "motion_arcsec_hr": 61.019999999999996
+      },
+      {
+        "date_utc": "2026-04-25 14:15",
+        "ra": "14:35:06.083",
+        "dec": "+05:46:34.91",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.017,
+        "motion_arcsec_hr": 61.019999999999996
+      },
+      {
+        "date_utc": "2026-04-25 14:20",
+        "ra": "14:35:06.043",
+        "dec": "+05:46:29.85",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.018,
+        "motion_arcsec_hr": 61.08
+      },
+      {
+        "date_utc": "2026-04-25 14:25",
+        "ra": "14:35:06.003",
+        "dec": "+05:46:24.79",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.019,
+        "motion_arcsec_hr": 61.13999999999999
+      },
+      {
+        "date_utc": "2026-04-25 14:30",
+        "ra": "14:35:05.962",
+        "dec": "+05:46:19.73",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.019,
+        "motion_arcsec_hr": 61.13999999999999
+      },
+      {
+        "date_utc": "2026-04-25 14:35",
+        "ra": "14:35:05.920",
+        "dec": "+05:46:14.67",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.02,
+        "motion_arcsec_hr": 61.2
+      },
+      {
+        "date_utc": "2026-04-25 14:40",
+        "ra": "14:35:05.877",
+        "dec": "+05:46:09.60",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.021,
+        "motion_arcsec_hr": 61.25999999999999
+      },
+      {
+        "date_utc": "2026-04-25 14:45",
+        "ra": "14:35:05.834",
+        "dec": "+05:46:04.53",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.021,
+        "motion_arcsec_hr": 61.25999999999999
+      },
+      {
+        "date_utc": "2026-04-25 14:50",
+        "ra": "14:35:05.790",
+        "dec": "+05:45:59.46",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.022,
+        "motion_arcsec_hr": 61.32
+      },
+      {
+        "date_utc": "2026-04-25 14:55",
+        "ra": "14:35:05.745",
+        "dec": "+05:45:54.39",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.023,
+        "motion_arcsec_hr": 61.379999999999995
+      },
+      {
+        "date_utc": "2026-04-25 15:00",
+        "ra": "14:35:05.700",
+        "dec": "+05:45:49.31",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.024,
+        "motion_arcsec_hr": 61.44
+      },
+      {
+        "date_utc": "2026-04-25 15:05",
+        "ra": "14:35:05.653",
+        "dec": "+05:45:44.23",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.024,
+        "motion_arcsec_hr": 61.44
+      },
+      {
+        "date_utc": "2026-04-25 15:10",
+        "ra": "14:35:05.607",
+        "dec": "+05:45:39.15",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.025,
+        "motion_arcsec_hr": 61.49999999999999
+      },
+      {
+        "date_utc": "2026-04-25 15:15",
+        "ra": "14:35:05.559",
+        "dec": "+05:45:34.07",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.026,
+        "motion_arcsec_hr": 61.56
+      },
+      {
+        "date_utc": "2026-04-25 15:20",
+        "ra": "14:35:05.511",
+        "dec": "+05:45:28.99",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.027,
+        "motion_arcsec_hr": 61.62
+      },
+      {
+        "date_utc": "2026-04-25 15:25",
+        "ra": "14:35:05.462",
+        "dec": "+05:45:23.90",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.027,
+        "motion_arcsec_hr": 61.62
+      },
+      {
+        "date_utc": "2026-04-25 15:30",
+        "ra": "14:35:05.413",
+        "dec": "+05:45:18.81",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.028,
+        "motion_arcsec_hr": 61.68
+      },
+      {
+        "date_utc": "2026-04-25 15:35",
+        "ra": "14:35:05.363",
+        "dec": "+05:45:13.72",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.029,
+        "motion_arcsec_hr": 61.739999999999995
+      },
+      {
+        "date_utc": "2026-04-25 15:40",
+        "ra": "14:35:05.312",
+        "dec": "+05:45:08.62",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.029,
+        "motion_arcsec_hr": 61.739999999999995
+      },
+      {
+        "date_utc": "2026-04-25 15:45",
+        "ra": "14:35:05.261",
+        "dec": "+05:45:03.52",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.03,
+        "motion_arcsec_hr": 61.800000000000004
+      },
+      {
+        "date_utc": "2026-04-25 15:50",
+        "ra": "14:35:05.210",
+        "dec": "+05:44:58.43",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.031,
+        "motion_arcsec_hr": 61.85999999999999
+      },
+      {
+        "date_utc": "2026-04-25 15:55",
+        "ra": "14:35:05.158",
+        "dec": "+05:44:53.32",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.032,
+        "motion_arcsec_hr": 61.92
+      },
+      {
+        "date_utc": "2026-04-25 16:00",
+        "ra": "14:35:05.105",
+        "dec": "+05:44:48.22",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.032,
+        "motion_arcsec_hr": 61.92
+      },
+      {
+        "date_utc": "2026-04-25 16:05",
+        "ra": "14:35:05.052",
+        "dec": "+05:44:43.11",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.033,
+        "motion_arcsec_hr": 61.98
+      },
+      {
+        "date_utc": "2026-04-25 16:10",
+        "ra": "14:35:04.999",
+        "dec": "+05:44:38.00",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.034,
+        "motion_arcsec_hr": 62.04
+      },
+      {
+        "date_utc": "2026-04-25 16:15",
+        "ra": "14:35:04.945",
+        "dec": "+05:44:32.89",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.034,
+        "motion_arcsec_hr": 62.04
+      },
+      {
+        "date_utc": "2026-04-25 16:20",
+        "ra": "14:35:04.891",
+        "dec": "+05:44:27.78",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.035,
+        "motion_arcsec_hr": 62.099999999999994
+      },
+      {
+        "date_utc": "2026-04-25 16:25",
+        "ra": "14:35:04.836",
+        "dec": "+05:44:22.66",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.036,
+        "motion_arcsec_hr": 62.160000000000004
+      },
+      {
+        "date_utc": "2026-04-25 16:30",
+        "ra": "14:35:04.782",
+        "dec": "+05:44:17.54",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.036,
+        "motion_arcsec_hr": 62.160000000000004
+      },
+      {
+        "date_utc": "2026-04-25 16:35",
+        "ra": "14:35:04.726",
+        "dec": "+05:44:12.42",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.037,
+        "motion_arcsec_hr": 62.22
+      },
+      {
+        "date_utc": "2026-04-25 16:40",
+        "ra": "14:35:04.671",
+        "dec": "+05:44:07.29",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.038,
+        "motion_arcsec_hr": 62.28
+      },
+      {
+        "date_utc": "2026-04-25 16:45",
+        "ra": "14:35:04.615",
+        "dec": "+05:44:02.16",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.038,
+        "motion_arcsec_hr": 62.28
+      },
+      {
+        "date_utc": "2026-04-25 16:50",
+        "ra": "14:35:04.559",
+        "dec": "+05:43:57.03",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.039,
+        "motion_arcsec_hr": 62.339999999999996
+      },
+      {
+        "date_utc": "2026-04-25 16:55",
+        "ra": "14:35:04.503",
+        "dec": "+05:43:51.90",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.04,
+        "motion_arcsec_hr": 62.400000000000006
+      },
+      {
+        "date_utc": "2026-04-25 17:00",
+        "ra": "14:35:04.447",
+        "dec": "+05:43:46.77",
+        "mag": 19.0,
+        "motion_arcsec_min": 1.04,
+        "motion_arcsec_hr": 62.400000000000006
+      }
+    ],
+    "predicted_mag": 18.8,
+    "motion_arcsec_min": 1.007,
+    "uncertainty_arcsec": 60.0,
+    "status": "UNCONFIRMED",
+    "registered_at": "2026-04-23T06:12:15",
+    "updated_at": "2026-04-25T19:54:16",
+    "days_since_discovery": 1,
+    "confirmed_at": null,
+    "mpc_desig": null,
+    "note": "Quality 4.28",
+    "priority": 0.0619,
+    "alert_level": "GREEN",
+    "observation_data": "COD O58\nCON T. Thaluang\nOBS T. Thaluang\nMEA T. Thaluang\nTEL 0.26-m f/4.3 reflector + CCD\nNUM 3\nACK MPCReport file updated 2026.04.23 06:07:28\nNET Gaia DR2\nAC2 teerasakt@hotmail.com\n     T634I3E KC2026 04 22.76704514 35 07.092+06 50 10.43         18.85G      O58\n     T634I3E KC2026 04 22.78975214 35 06.817+06 49 42.60         18.73G      O58\n     T634I3E KC2026 04 22.81247714 35 06.523+06 49 14.15         18.95G      O58\n----- end -----"
+  }
+}
